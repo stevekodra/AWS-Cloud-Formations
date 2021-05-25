@@ -46,7 +46,7 @@ Parameters:
   MultiAvailabilityZone:
     Description: Enable Multi Availability Zones?
     Type: String
-    Default: 'false'
+    Default: 'true'
     AllowedValues:
     - 'true'
     - 'false'
