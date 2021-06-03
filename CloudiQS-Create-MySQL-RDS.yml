@@ -1,6 +1,6 @@
 ---
 AWSTemplateFormatVersion: '2010-09-09'
-Description: CloudiQS - Create a MySQL RDS, with DB subnet, Security Group, Cloudwach in existing VPC Private subnet.
+Description: CloudiQS - Create a MySQL RDS, with DB subnet, Security Group, Cloudwach in existing VPC Private subnet
 Parameters:
   Owner:
     Description: Enter Team or Individual Name Responsible for the Stack.
