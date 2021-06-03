@@ -8,7 +8,7 @@ Parameters:
     Default: Customer FirstName Customer LastName
   Project:
     Type: String
-    Default: MySQL RDS Creation for validsoft
+    Default: MySQL RDS Creation
   DeleteAfter:
     Type: String
     Default: 00/00/201x
